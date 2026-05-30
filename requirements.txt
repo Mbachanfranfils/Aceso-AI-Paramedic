@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+supabase
+slowapi
+pydantic
+python-dotenv
